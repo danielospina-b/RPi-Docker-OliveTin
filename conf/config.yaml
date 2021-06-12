@@ -1,0 +1,3 @@
+actions:
+  - title: WOL Server
+    shell: ssh user@192.168.0.4 wakeonlan AB:CD:EF:12:34:56
